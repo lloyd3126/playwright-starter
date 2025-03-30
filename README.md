@@ -5,7 +5,7 @@
 ## 📁 專案結構
 
 ```
-20250330/
+playwright-starter/
 ├── .venv/                # 虛擬環境資料夾
 ├── example.py            # 範例爬蟲腳本
 ├── example.png           # 執行後產生的截圖
